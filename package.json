@@ -1,0 +1,16 @@
+{
+  "name": "tsx-no-exports-main-defined",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@auth/core": "^0.7.1",
+    "tsx": "^3.12.7"
+  }
+}
